@@ -1,4 +1,4 @@
-# SC1015: Data Science Mini Project - predicting G3
+# SC1015: Data Science Mini Project - predicting student test scores
 Mini-Project for SC1015 - Introduction to Data Science and Artificial Intelligence
 
 Lab: FCED
